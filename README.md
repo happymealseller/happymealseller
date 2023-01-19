@@ -5,7 +5,7 @@
 <h1>Hello, I'm Ben</h1>  
   
 <img src= "https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU%20Bash&logoColor=white"> 
-<img src= "https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=oracle&logoColor=922B21">
+<img src= "https://img.shields.io/badge/Java-F3F3F3?style=for-the-badge&logo=oracle&logoColor=922B21">
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 <img src= "https://img.shields.io/badge/JavaScript-FFEC00?style=for-the-badge&logo=javascript&logoColor=black">
