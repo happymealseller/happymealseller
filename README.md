@@ -1,8 +1,4 @@
 <div align="center"> 
-<img src="https://c.tenor.com/zcg_1XBw-AMAAAAi/tkthao219-bubududu.gif" width="125" height="125"> 
-&nbsp  
-&nbsp  
-<h1>Hello, I'm Ben</h1>   
 <img src= "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">   
 <img src= "https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 <img src= "https://img.shields.io/badge/Java-F3F3F3?style=for-the-badge&logo=oracle&logoColor=922B21">
